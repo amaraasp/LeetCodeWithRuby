@@ -56,4 +56,4 @@ end
 nums2 = [3,1,2,4]
 target2 = 5
 puts two_sum(nums2, target2)  # Output: [0, 2]
-puts two_sum2(nums2, target2)  # Output: [2, 2]
+puts two_sum2(nums2, target2) # Output: [0, 2]
