@@ -51,8 +51,6 @@ def is_palindrome_without_reverse(x)
 end
 
 
-
-
 x = 32123
 result = is_palindrome_without_reverse(x)
 puts result
